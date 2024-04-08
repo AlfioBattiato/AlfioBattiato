@@ -1,3 +1,7 @@
+<h2 align="left">About me :</h2>
+
+###
+
 <br clear="both">
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/112937226?v=4"  />
@@ -5,6 +9,10 @@
 ###
 
 <h3 align="left">Hello world 👋! My name is Alfio and I'm a Full-Stack Developer from Italy. I embarked on my journey in 2021, and every month since then, I've been expanding my knowledge in computer science by delving into new programming languages and technologies. My expertise includes web app development, and I also possess foundational knowledge in hacking.</h3>
+
+###
+
+<h4 align="left">My tecnology:</h4>
 
 ###
 
@@ -30,6 +38,10 @@
 
 ###
 
+<h4 align="left">Contacts:</h4>
+
+###
+
 <div align="left">
   <a href="battiato3@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -52,9 +64,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/AlfioBattiato/AlfioBattiato/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
