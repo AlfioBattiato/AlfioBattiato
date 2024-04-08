@@ -46,7 +46,7 @@
 
 ###
 
-<i></i><h3 align="left">Hello world 👋! My name is Alfio and I'm a Full-Stack Developer 💻 from Italy . I embarked on my journey in 2021, and every month since then, I've been expanding my knowledge in computer science by delving into new programming languages and technologies. My expertise includes web app development, and I also possess foundational knowledge in hacking.</h3></i>
+<h3 align="left">Hello world 👋! My name is Alfio and I'm a Full-Stack Developer 💻 from Italy . I embarked on my journey in 2021, and every month since then, I've been expanding my knowledge in computer science by delving into new programming languages and technologies. My expertise includes web app development, and I also possess foundational knowledge in hacking.</h3>
 
 ###
 
