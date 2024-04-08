@@ -1,7 +1,3 @@
-<h2 align="left">About me :</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -30,13 +26,19 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="170" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif"  />
+<h2 align="left">About me :</h2>
 
 ###
 
-<h3 align="left">Hello world 👋! My name is Alfio and I'm a Full-Stack Developer 💻 from Italy . I embarked on my journey in 2021, and every month since then, I've been expanding my knowledge in computer science by delving into new programming languages and technologies. My expertise includes web app development, and I also possess foundational knowledge in hacking.</h3>
+<br clear="both">
+
+<div align="left">
+  <img height="170" src="https://i.pinimg.com/originals/a6/42/72/a6427290d97d92343223643614c8ef80.gif"  />
+</div>
+
+###
+
+<i><h3 align="left">Hello world 👋! My name is Alfio and I'm a Full-Stack Developer 💻 from Italy . I embarked on my journey in 2021, and every month since then, I've been expanding my knowledge in computer science by delving into new programming languages and technologies. My expertise includes web app development, and I also possess foundational knowledge in hacking.</h3></i>
 
 ###
 
